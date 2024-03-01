@@ -14,6 +14,8 @@ Inside the "Documents" folder, you might have more folders, each with their own 
 
 And guess what? You can keep going deeper! Let's say you open up the "Work" folder. Inside, you might have even more folders, organized by project or department. It's like a never-ending nesting doll of folders within folders.
 
+> If you're still not clear about how folders are structured, check out our fundamentals about [using the command line](https://github.com/bjssacademy/fundamentals-general/blob/main/commandlinebasics.md#folders-files--directories-subdirectories) which has a more in-depth explanation.
+
 ## Files
 
 Each of these folders can hold files – like documents, photos, spreadsheets, you name it. These files are like the papers inside your folders. You can create, edit, move, and delete files just like you would with physical documents.
